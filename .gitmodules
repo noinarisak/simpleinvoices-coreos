@@ -1,0 +1,3 @@
+[submodule "simpleinvoices"]
+	path = simpleinvoices
+	url = git@github.com:noinarisak/simpleinvoices.git
